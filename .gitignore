@@ -24,6 +24,8 @@ tmp/*
 **/*.DS_Store
 gradio_temp/**
 
+wandb
+
 # Windows dependencies
 ffmpeg/
 LivePortrait_env/
